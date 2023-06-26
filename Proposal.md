@@ -32,21 +32,39 @@ The objectives of this study are as follows:
 ## Related work/literature review
 
 [1] C. Wang et al., ‘VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation’. arXiv, Jul. 27, 2021. doi: 10.48550/arXiv.2101.00390.
+
 [2] C. Zhang, X. Tan, Y. Ren, T. Qin, K. Zhang, and T.-Y. Liu, ‘UWSpeech: Speech to Speech Translation for Unwritten Languages’. arXiv, Dec. 17, 2020. doi: 10.48550/arXiv.2006.07926.
+
 [3] H. Inaguma et al., ‘UnitY: Two-pass Direct Speech-to-speech Translation with Discrete Units’. arXiv, May 26, 2023. doi: 10.48550/arXiv.2212.08055.
+
 [4] A. Lee et al., ‘Textless Speech-to-Speech Translation on Real Data’. arXiv, May 04, 2022. doi: 10.48550/arXiv.2112.08352.
+
 [5] P.-J. Chen et al., ‘Speech-to-Speech Translation For A Real-world Unwritten Language’. arXiv, Nov. 11, 2022. doi: 10.48550/arXiv.2211.06474.
+
 [6] A. Tjandra, S. Sakti, and S. Nakamura, ‘Speech-to-Speech Translation Between Untranscribed Unknown Languages’, in 2019 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), Dec. 2019, pp. 593–600. doi: 10.1109/ASRU46091.2019.9003853.
+
 [7] A. Polyak et al., ‘Speech Resynthesis from Discrete Disentangled Self-Supervised Representations’. arXiv, Jul. 27, 2021. doi: 10.48550/arXiv.2104.00355.
+
 [8] C. Wang et al., ‘Simple and Effective Unsupervised Speech Translation’. arXiv, Oct. 18, 2022. doi: 10.48550/arXiv.2210.10191.
+
 [9] P.-A. Duquenne, H. Gong, and H. Schwenk, ‘Multimodal and Multilingual Embeddings for Large-Scale Speech Mining’, in Advances in Neural Information Processing Systems, Curran Associates, Inc., 2021, pp. 15748–15761. Accessed: Jun. 22, 2023. [Online]. Available: https://papers.nips.cc/paper/2021/hash/8466f9ace6a9acbe71f75762ffc890f1-Abstract.html
+
 [10] Q. Dong, F. Yue, T. Ko, M. Wang, Q. Bai, and Y. Zhang, ‘Leveraging Pseudo-labeled Data to Improve Direct Speech-to-Speech Translation’. arXiv, May 18, 2022. doi: 10.48550/arXiv.2205.08993.
+
 [11] M. S. Sainin and M. H. Haris, ‘Kadazandusun Speech Recognition: A Case Study’, 2020.
+
 [12] W.-N. Hsu, B. Bolte, Y.-H. H. Tsai, K. Lakhotia, R. Salakhutdinov, and A. Mohamed, ‘HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units’. arXiv, Jun. 14, 2021. doi: 10.48550/arXiv.2106.07447.
+
 [13] S. Popuri et al., ‘Enhanced Direct Speech-to-Speech Translation Using Self-supervised Pre-training and Data Augmentation’. arXiv, Sep. 13, 2022. doi: 10.48550/arXiv.2204.02967.
+
 [14] A. Lee et al., ‘Direct speech-to-speech translation with discrete units’. arXiv, Mar. 21, 2022. doi: 10.48550/arXiv.2107.05604.
+
 [15] Y. Jia et al., ‘Direct speech-to-speech translation with a sequence-to-sequence model’. arXiv, Jun. 25, 2019. doi: 10.48550/arXiv.1904.06037.
+
 [16] J. Betker, ‘Better speech synthesis through scaling’. arXiv, May 23, 2023. doi: 10.48550/arXiv.2305.07243.
+
 [17] Y. Zhang et al., ‘Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages’. arXiv, Mar. 02, 2023. doi: 10.48550/arXiv.2303.01037.
+
 [18] K. Wei et al., ‘Joint Pre-Training with Speech and Bilingual Text for Direct Speech to Speech Translation’, arXiv.org, Oct. 31, 2022. https://arxiv.org/abs/2210.17027v1 (accessed Jun. 07, 2023).
+
 [19] A. Anastasopoulos and D. Chiang, ‘A case study on using speech-to-translation alignments for language documentation’, in Proceedings of the 2nd Workshop on the Use of Computational Methods in the Study of Endangered Languages, Honolulu: Association for Computational Linguistics, Mar. 2017, pp. 170–178. doi: 10.18653/v1/W17-0123.
